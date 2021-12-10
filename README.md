@@ -4,7 +4,7 @@ My name is Simon. I'm a biologist 🧑‍🔬 studying the brain 🧠.
 I studied in France 🇫🇷, Japan 🇯🇵 and now Germany 🇩🇪, where I conduct my PhD.
 
 I do single-cell 🧬 data analysis, so I primarily use R, Bash and occasionally some Python.
-When I'm not working, I spend time with my cats 😻 and I like to think about my work- and personal-life organisation, the meaning of life and how everything can meet somewhere.
+When I'm not working, I spend time with my cats 😻 and I like to think about my work- and personal-life organisation, the meaning of life 🤔 and how everything can meet somewhere.
 
 Cheers!
 <!--
